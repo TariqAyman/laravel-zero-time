@@ -66,7 +66,7 @@ By following these steps, the action ensures that your application is deployed s
 | `command_script_after_activate`       | Script to run after activating release      | No       | `false` |
 
 ## Example Usage
-You can use our [Setuper](https://deployer.flowsahl.com/setuper) by filling out the form, and we will handle the setup, workflow creation, and secrets configuration. Alternatively, you can manually set up your workflow using the `FlowSahl/laravel-zero-time@v1.0.3` action:
+You can use our [Setuper](https://deployer..com/setuper) by filling out the form, and we will handle the setup, workflow creation, and secrets configuration. Alternatively, you can manually set up your workflow using the `TariqAyman/laravel-zero-time@v1.0.3` action:
 
 > **Important:**  
 > You need to add the following secrets to your repository:
