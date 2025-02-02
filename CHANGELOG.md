@@ -2,6 +2,10 @@
 
 All notable changes to `FlowSahl/laravel-zero-time` will be documented in this file.
 
+## 1.1.1 - 2025-02-02
+
+**Full Changelog**: https://github.com/TariqAyman/laravel-zero-time/compare/1.1.0...1.1.1
+
 ## 1.1.0 - 2024-09-04
 
 ### What's Changed
