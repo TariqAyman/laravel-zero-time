@@ -143,7 +143,7 @@ export class DeploymentService {
   }
 
   private async linkStorage(paths: Paths): Promise<void> {
-    await sshOperations.execute(`ln -sfn ${paths.target}/storage ${paths.releasePath}/storage`, paths);
+    await sshOperations.execute(`ln -sfn ${paths.target}/storage ${paths.releasePath}/`, paths);
   }
 
   private async runOptionalScript(script: string | undefined, description: string): Promise<void> {
